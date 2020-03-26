@@ -5,10 +5,6 @@ module.exports = {
       options: {},
     },
 	{
-      resolve: `netlify-cms-app`,
-      options: {},
-    },
-	{
       resolve: `gatsby-plugin-netlify-cms`,
       options: {},
     },
