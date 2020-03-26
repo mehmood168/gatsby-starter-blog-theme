@@ -4,6 +4,10 @@ module.exports = {
       resolve: `gatsby-theme-blog`,
       options: {},
     },
+	{
+      resolve: `gatsby-plugin-netlify-cms`,
+      options: {},
+    },
   ],
   // Customize your site metadata:
   siteMetadata: {
