@@ -20,7 +20,7 @@ module.exports = {
   siteMetadata: {
     title: `Code Snippets`,
     author: `Mehmood`,
-    description: `This blog is `,
+    description: `This blog is an attempt to share commonly code snippets, problems commonly faced, my new learnings and much more`,
     social: [
       {
         name: `twitter`,
