@@ -13,21 +13,22 @@ module.exports = {
       options: {
 		name: `markdown-pages`,
 		path: `${__dirname}/content/posts`,
+	  }
     },
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `Technical Blog`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Code Snippets`,
+    author: `Mehmood`,
+    description: `This blog is `,
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/mehmood168`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/mehmood168`,
       },
     ],
   },
