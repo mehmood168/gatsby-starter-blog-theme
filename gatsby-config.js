@@ -8,6 +8,12 @@ module.exports = {
       resolve: `gatsby-plugin-netlify-cms`,
       options: {},
     },
+	{
+	  resolve: `gatsby-source-filesystem`,
+      options: {
+		name: `markdown-pages`,
+		path: `${__dirname}/content/posts`,
+    },
   ],
   // Customize your site metadata:
   siteMetadata: {
